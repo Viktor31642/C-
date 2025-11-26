@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAABAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAiwHMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T14:18:27.602Z",
               "EditorCaption": ""
