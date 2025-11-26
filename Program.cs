@@ -2,7 +2,27 @@
 using System;
 
 namespace program
+
+
 {
+    class Book
+    {
+        private string title;
+        private string author;
+        private int yearPublished;
+
+        public Book(string title, string author, int yearPublished)
+        {
+            this.title = title;
+            this.author = author;
+            this.yearPublished = yearPublished;
+        }
+
+        public void DisplayInfo()
+        {
+            Console.WriteLine($"Title: {title}, Author: {author}, Year Published: {yearPublished}");
+        }
+    }
     class Program
     {
         static void Main()
@@ -108,59 +128,129 @@ namespace program
 
             // TASK 3
 
-            while (true)
-            {
-                int number;
+            //while (true)
+            //{
+            //    int number;
 
-                while (true)
-                {
-                    Console.WriteLine("Enter a number between 1 and 10:");
-                    string? input = Console.ReadLine();
-
-
-                    bool isValid = int.TryParse(input, out number);
-
-                    if (!isValid)
-                    {
-                        Console.WriteLine("Invalid input. Not a number. Try again.");
-                        continue;
-                    }
-
-                    if (number < 1 || number > 10)
-                    {
-                        Console.WriteLine("Number out of range. Try again.");
-                        continue;
-                    }
+            //    while (true)
+            //    {
+            //        Console.WriteLine("Enter a number between 1 and 10:");
+            //        string? input = Console.ReadLine();
 
 
-                    break;
-                }
-                int[] nums = Enumerable.Range(1, 10).ToArray();
+            //        bool isValid = int.TryParse(input, out number);
 
-                foreach (int i in nums)
-                {
-                    Console.WriteLine($"{number} * {i} = {number * i}");
-                }
+            //        if (!isValid)
+            //        {
+            //            Console.WriteLine("Invalid input. Not a number. Try again.");
+            //            continue;
+            //        }
 
-                Console.WriteLine("Do you want to check another number? (yes/no):");
-                string response = Console.ReadLine().Trim().ToLower();
+            //        if (number < 1 || number > 10)
+            //        {
+            //            Console.WriteLine("Number out of range. Try again.");
+            //            continue;
+            //        }
 
-                if (response == "no")
-                {
-                    Console.WriteLine("Goodbye!");
-                    break;
-                }
 
-                if (response != "yes")
-                {
-                    Console.WriteLine("Invalid response. Returning to menu...");
-                }
+            //        break;
+            //    }
+            //    int[] nums = Enumerable.Range(1, 10).ToArray();
 
-                Console.Clear();
-            }
+            //    foreach (int i in nums)
+            //    {
+            //        Console.WriteLine($"{number} * {i} = {number * i}");
+            //    }
 
+            //    Console.WriteLine("Do you want to check another number? (yes/no):");
+            //    string response = Console.ReadLine().Trim().ToLower();
+
+            //    if (response == "no")
+            //    {
+            //        Console.WriteLine("Goodbye!");
+            //        break;
+            //    }
+
+            //    if (response != "yes")
+            //    {
+            //        Console.WriteLine("Invalid response. Returning to menu...");
+            //    }
+
+            //    Console.Clear();
+            //}
 
             // TASK 4
+            //int start, end;
+
+            //while (true)
+            //{
+
+            //    while (true)
+            //    {
+            //        Console.WriteLine("Enter the start number:");
+            //        string inputStart = Console.ReadLine();
+            //        bool isValidStart = int.TryParse(inputStart, out start);
+            //        if (isValidStart)
+            //            break;
+
+            //        Console.WriteLine("Invalid number. Please try again.");
+            //    }
+
+            //    while (true)
+            //    {
+            //        Console.WriteLine("Enter the end number:");
+            //        string inputEnd = Console.ReadLine();
+            //        bool isValidEnd = int.TryParse(inputEnd, out end);
+            //        if (isValidEnd && end >= start)
+            //            break;
+
+            //        Console.WriteLine("Invalid number or end number is less than start number. Please try again.");
+            //    }
+
+
+            //    int sum = 0;
+
+            //    for (int i = start; i <= end; i++)
+            //    {
+            //        sum += i;
+            //    }
+
+            //    Console.WriteLine($"Sum from {start} to {end} is: {sum}");
+
+
+            //    Console.WriteLine("Do you want to check another range? (yes/no):");
+            //    string response = Console.ReadLine().Trim().ToLower();
+
+            //    if (response == "no")
+            //    {
+            //        Console.WriteLine("Goodbye!");
+            //        break;
+            //    }
+
+            //    if (response != "yes")
+            //    {
+            //        Console.WriteLine("Invalid response. Returning to menu...");
+            //    }
+
+            //    Console.Clear();
+            //}
+
+
+            // TASK 5
+
+            //Book book1 = new Book("1984", "George Orwell", 1949);
+            //Book book2 = new Book("The Hobbit", "J.R.R. Tolkien", 1937);
+            //Book book3 = new Book("Clean Code", "Robert C. Martin", 2008);
+
+            //book1.DisplayInfo();
+            //book2.DisplayInfo();
+            //book3.DisplayInfo();
+
+            //Console.WriteLine();
+            //Console.WriteLine("Press any key to exit...");
+            //Console.ReadKey();
+
+
 
 
         }
