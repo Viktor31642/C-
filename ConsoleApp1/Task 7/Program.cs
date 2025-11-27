@@ -21,7 +21,7 @@
     double num2;
     while (true)
     {
-        Console.Write("Enter first number: ");
+        Console.Write("Enter second number: ");
         bool isValid = double.TryParse(Console.ReadLine(), out num2);
 
         if (isValid)
