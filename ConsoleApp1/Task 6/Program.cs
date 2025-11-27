@@ -7,8 +7,6 @@ foreach (int num in myNumbers)
     
     Console.Write(num + " ");
 }
-Console.WriteLine();
-Console.WriteLine("Smallest number: " + smallest);
-Console.WriteLine();
-Console.WriteLine("Press any key to exit...");
+Console.WriteLine("\nSmallest number: " + smallest);
+Console.WriteLine("\nPress any key to exit...");
 Console.ReadKey();

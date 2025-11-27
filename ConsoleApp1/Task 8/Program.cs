@@ -36,8 +36,7 @@ class Program
             Console.WriteLine(student.fullName + " " + student.age);
         }
 
-        Console.WriteLine();
-        Console.WriteLine("Sort by age:");
+        Console.WriteLine("\nSort by age:");
 
         Array.Sort(students, (a, b) => a.age.CompareTo(b.age));
         foreach (Student student in students)
@@ -50,9 +49,8 @@ class Program
         int maxAge = students.Max(student => student.age);
 
         var oldestStudents = students.Where(student => student.age == maxAge);
-
-        Console.WriteLine();
-        Console.WriteLine("The oldest student:");
+       
+        Console.WriteLine("\nThe oldest student:");
         foreach (var student in oldestStudents)
         {
             Console.WriteLine($"{student.fullName} — {student.age}");
