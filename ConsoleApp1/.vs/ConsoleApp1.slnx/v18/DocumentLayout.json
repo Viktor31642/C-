@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD8F7AE5-5DB0-1FE6-5735-0E68E9974FA0}|Task 6\\Task 6.csproj|c:\\users\\vikto\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\c-\\consoleapp1\\task 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD8F7AE5-5DB0-1FE6-5735-0E68E9974FA0}|Task 6\\Task 6.csproj|solutionrelative:task 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65EDEBE2-4000-4D7D-3625-C8343AAE53C5}|Task 8\\Task 8.csproj|c:\\users\\vikto\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\c-\\consoleapp1\\task 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EDEBE2-4000-4D7D-3625-C8343AAE53C5}|Task 8\\Task 8.csproj|solutionrelative:task 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E447588-B28B-1FFE-F46B-EE070C2FD8FB}|Task 7\\Task 7.csproj|c:\\users\\vikto\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\c-\\consoleapp1\\task 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E447588-B28B-1FFE-F46B-EE070C2FD8FB}|Task 7\\Task 7.csproj|solutionrelative:task 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8F7AE5-5DB0-1FE6-5735-0E68E9974FA0}|Task 6\\Task 6.csproj|c:\\users\\vikto\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\c-\\consoleapp1\\task 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8F7AE5-5DB0-1FE6-5735-0E68E9974FA0}|Task 6\\Task 6.csproj|solutionrelative:task 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE1366-EBA0-142E-B1D4-B39614A9F24B}|Task 5\\Task 5.csproj|c:\\users\\vikto\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\c-\\consoleapp1\\task 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE1366-EBA0-142E-B1D4-B39614A9F24B}|Task 5\\Task 5.csproj|solutionrelative:task 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C721323-6F27-6DCD-0967-CE743F93502F}|Task 2\\Task 2.csproj|c:\\users\\vikto\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\c-\\consoleapp1\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C721323-6F27-6DCD-0967-CE743F93502F}|Task 2\\Task 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D013FCF0-D853-B84E-3ED9-8014D0C01A42}|Task 1\\Task 1.csproj|c:\\users\\vikto\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\c-\\consoleapp1\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D013FCF0-D853-B84E-3ED9-8014D0C01A42}|Task 1\\Task 1.csproj|solutionrelative:task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE227A2B-423C-8666-A901-B8C455BF5D29}|Task 4\\Task 4.csproj|c:\\users\\vikto\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\c-\\consoleapp1\\task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE227A2B-423C-8666-A901-B8C455BF5D29}|Task 4\\Task 4.csproj|solutionrelative:task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +38,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 2\\Program.cs",
+              "RelativeToolTip": "Task 2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:44:36.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Task 1\\Program.cs",
+              "ToolTip": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 1\\Program.cs",
+              "RelativeToolTip": "Task 1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:52:18.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 8\\Program.cs",
+              "RelativeDocumentMoniker": "Task 8\\Program.cs",
+              "ToolTip": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 8\\Program.cs",
+              "RelativeToolTip": "Task 8\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:43:12.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 5\\Program.cs",
+              "RelativeDocumentMoniker": "Task 5\\Program.cs",
+              "ToolTip": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 5\\Program.cs",
+              "RelativeToolTip": "Task 5\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:39:21.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 4\\Program.cs",
+              "RelativeDocumentMoniker": "Task 4\\Program.cs",
+              "ToolTip": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 4\\Program.cs",
+              "RelativeToolTip": "Task 4\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:31:07.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 6\\Program.cs",
               "RelativeDocumentMoniker": "Task 6\\Program.cs",
               "ToolTip": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 6\\Program.cs",
               "RelativeToolTip": "Task 6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T14:01:17.791Z",
               "EditorCaption": ""
@@ -41,7 +126,7 @@
               "RelativeDocumentMoniker": "Task 7\\Program.cs",
               "ToolTip": "C:\\Users\\vikto\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C-\\ConsoleApp1\\Task 7\\Program.cs",
               "RelativeToolTip": "Task 7\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T12:23:16.042Z",
               "EditorCaption": ""

@@ -17,11 +17,11 @@
     {
         Console.WriteLine("Age cannot be negative.");
     }
-    else if (age >= 0 && age <= 10)
+    else if (age <= 10)
     {
         Console.WriteLine("You are a kid");
     }
-    else if (age >= 11 && age <= 17)
+    else if (age <= 17)
     {
         Console.WriteLine("You are a teenager");
     }

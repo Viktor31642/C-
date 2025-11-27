@@ -1,7 +1,6 @@
 ﻿while (true)
 {
 
-    Console.Write("Enter first number: ");
     double num1;
     while (true)
     {
@@ -14,10 +13,6 @@
         Console.WriteLine("Use only double. Try again.");
     }
 
-    Console.Write("Enter operation (+, -, *, /): ");
-    string op = Console.ReadLine();
-
-    Console.Write("Enter second number: ");
     double num2;
     while (true)
     {
@@ -29,6 +24,11 @@
 
         Console.WriteLine("Use only double. Try again.");
     }
+
+    Console.Write("Enter operation (+, -, *, /): ");
+    string op = Console.ReadLine();
+
+
 
     double result;
 
